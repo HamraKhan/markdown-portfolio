@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* matcha tea
+* a good book
+  * comedy
+  * fantasy adventure
+* holidays
+* going out to eat
+* helping people
